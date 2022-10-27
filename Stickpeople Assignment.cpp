@@ -1,5 +1,5 @@
 /*Programme in C++ 
-*it outputs a man and woman in stick figures
+it outputs a man and woman in stick figures
 */
 #include <iostream>
 using namespace std;
